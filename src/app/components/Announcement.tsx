@@ -11,13 +11,13 @@ function announcement (){
     <main>
       <nav> <Header /> </nav>
         <nav className="bg-blue-300 border-200 bg-opacity-50  px-4 lg:px-6 py-2.5 shadow-2xl ">
-            < a href = "/#"> HOME</a>
-            < a href = "/#"> ANNOUNCEMENTS</a>
-            < a href = "/#"> VIEW PROFILE</a>
-            < a href = "/#"> EDIT PROFILE</a>
+            < a href = "user-home"> HOME</a>
+            < a href = "announcement"> ANNOUNCEMENTS</a>
+            < a href = "userviewprof"> VIEW PROFILE</a>
+            < a href = "usereditprofile"> EDIT PROFILE</a>
             </nav>
             <div className = "mt-4 flex">
-                    <button className = "ml-4 font-sans bg-blue-600  text-white text-center flex items-center px-8 py-2 rounded font-bold mb-2 "><Link href = "/">BACK</Link></button>
+                    <button className = "ml-4 font-sans bg-blue-600  text-white text-center flex items-center px-8 py-2 rounded font-bold mb-2 "><Link href = "user-home">BACK</Link></button>
                     </div>
             <label className="block text-black text-6xl py-6 font-bold ml-10 mb-2">
                 Announcements</label>

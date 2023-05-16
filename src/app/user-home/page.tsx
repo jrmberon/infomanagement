@@ -32,12 +32,12 @@ function app(){
                 <ImageSlider />
                 </div>
                 <div className="text-black text-4xl font-bold ml-72 mt-36  ">
-                  Barangay 391, Manila
+                  Barangay 391 Zone 40 III, Manila
 
                 </div>
                 <div className="text-black text-lg font-bold ml-80  ">
-                  Located at (address)<br></br>
-                  (landline)
+                  Located at 1064 Bilibid Viejo St., Corner R. Hidalgo, Quiapo, Manila<br></br>
+                  82877790
 
                 </div>
 
@@ -72,19 +72,19 @@ function app(){
                 </div>
 
                 <div className="user1">
-                  <img className="" src="/images/user.png" width = {150} height = {150}></img>
+                  <img className="" src="/images/user.png" width = {120} height = {120}></img>
                 </div>
 
                 <div className="user2">
-                <img className="" src="/images/user.png" width = {150} height = {150}></img>
+                <img className="" src="/images/user.png" width = {120} height = {120}></img>
                 </div>
 
                 <div className="name">
-                  Name
+                CECILIO T. MATEO
                 </div>
 
                 <div className="name2">
-                  Name
+                KRISTINE JOY C. DALA
                 </div>
 
                 <div className="pb">
@@ -104,15 +104,18 @@ function app(){
                 </div>
 
                 <div className="pbnames">
-                  Name <br></br>
-                  Name <br></br>
-                  Name <br></br>
-                </div>
+                ENRIQUE A. GALIMA<br></br>
+                RONALDO T. BACUS <br></br>
+                VENUS C. AQUINO <br></br>
+                RAYMOND M. GALVAN <br></br>
+                WESS D. PACUBAS <br></br>
+                ARNEL B. MACABULOS <br></br>
+                ALBERT SAN JUAN<br></br></div>
 
                 <div className="sknames">
-                  Name <br></br>
-                  Name <br></br>
-                  Name <br></br>
+                JENNIFER R. CALISIN <br></br>
+                MARGARITO F. MACARANAS<br></br>
+                CONRADO O. CATBAGAN JR. <br></br>
                 </div>
 
 

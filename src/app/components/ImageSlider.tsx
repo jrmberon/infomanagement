@@ -7,20 +7,20 @@ function ImageSlider () {
     
        const slides = [
             {
-              url: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2620&q=80',
+              url: 'https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg',
             },
             {
-              url: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
+              url: 'https://th.bing.com/th/id/OIP.bxLwhujpbU7gGr7gGYLIxAAAAA?pid=ImgDet&rs=1',
             },
             {
-              url: 'https://images.unsplash.com/photo-1661961112951-f2bfd1f253ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80',
+              url: 'https://www.tactix5.com/wp-content/uploads/2018/01/Consumer-Promotions-small-1225x350.jpg',
             },
         
             {
-              url: 'https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2253&q=80',
+              url: 'https://www.buddlefindlay.com/media/4251/announce.png',
             },
             {
-              url: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80',
+              url: 'https://t3.ftcdn.net/jpg/00/81/12/08/240_F_81120813_JtUt0HKnWtuNu7L5jsSqMHl9JF5LIr2R.jpg',
             },
           ];
         
