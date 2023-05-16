@@ -31,3 +31,108 @@ body{
     background: rgb(81, 184, 239);
 }
 
+.brgy{
+    margin-top: -30%;
+    margin-left: 60%;
+}
+
+.off{
+    position: static;
+    width: 2222px;
+    height: 600px;
+    background: white;
+}
+
+.text{
+    position: absolute;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    font-weight: 700;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+
+.user1{
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 25%;
+}
+
+.user2{
+    position: absolute;
+    margin-top: -22%;
+    margin-left: 70%;
+}
+
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 26.4%;
+}
+
+.name2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 71.4%;
+}
+
+.pb{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 24.5%;
+}
+
+.sk{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 70.2%;
+}
+
+.kagawad{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -9.5%;
+    margin-left: 24.1%;
+}
+
+.skkagawad{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -9.5%;
+    margin-left: 71.1%;
+}
+
+.pbnames{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -6.5%;
+    margin-left: 27.1%;
+}
+
+.sknames{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -6.5%;
+    margin-left: 72.5%;
+}

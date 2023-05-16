@@ -24,7 +24,7 @@ export default function ViewProfile(){
         <main>
             <nav><Header /></nav>
             <div className = "flex mt-3">
-                <button className = "font-sans ml-2"><Link href = "/user-home">Back</Link></button>
+            <button className = "mt-2.5 bg-blue-500 hover:bg-blue-700 border-none text-white text-center flex items-center px-2 py-2 rounded mb-2 ml-4"><Link href = "/userviewprof">Back</Link></button>
                 {Mounted && (<p className = "absolute right-0 mr-2">Current Time: {CurrentTime}, {CurrentDate}</p>)}
             </div>
             <div className ="flex flex-col items-center justify-center w-full px-20 pt-10">
