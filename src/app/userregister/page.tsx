@@ -206,9 +206,9 @@ function UserRegister(){
                         </input>
                     </p>
                     <p className = "ml-16 mt-3 flex">Civil Status: </p>
-                    <div className = "mr-2 ml-15 content-start grid grid-flow-rows-2"> 
+                    <div className = " mr-2 ml-15 content-start grid grid-flow-rows-2"> 
                         <p className = "ml-2 mr-2 mb-2 mt-3 pl-3 flex">
-                            <input className = "mt-2 mb-2 w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500"
+                            <input className = "justify-center mt-2 mb-2 w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500"
                                 id = "single"
                                 type = "radio"
                                 name = "civilstatus"
@@ -415,6 +415,8 @@ function UserRegister(){
                 <SuccessModal message1 = "Thank you for Registering!" message2 = "You may now access your account"/>
             )}
         </div>
+
+        
     );
 }
 export default UserRegister;
