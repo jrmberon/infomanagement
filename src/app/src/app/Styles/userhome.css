@@ -1,0 +1,138 @@
+body{
+    background-image: url(sanseb.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 500% ;
+    background-position:0px 200px;
+
+}
+
+
+
+.button{
+    margin-left:16px ;
+    font-family: sans-serif;
+    background-color: rgb(28 100 242);
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left : 32px;
+    padding-right: 32px;
+    font-weight: 700;
+    margin-top: -1.5%;
+    border-radius: 12px;
+}
+
+.bluerect{
+    position: static;
+    height: 90px;
+    width: 2222px;
+    margin-top:-82px;
+    background: rgb(81, 184, 239);
+}
+
+.brgy{
+    margin-top: -30%;
+    margin-left: 60%;
+}
+
+.off{
+    position: static;
+    width: 2222px;
+    height: 600px;
+    background: white;
+}
+
+.text{
+    position: absolute;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    font-weight: 700;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+
+.user1{
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 25%;
+}
+
+.user2{
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 70%;
+}
+
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 175%;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -19%;
+    margin-left: 21.4%;
+}
+
+.name2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 175%;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -19%;
+    margin-left: 65.4%;
+}
+
+.pb{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -17.5%;
+    margin-left: 23.8%;
+}
+
+.sk{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -17.5%;
+    margin-left: 69.2%;
+}
+
+.kagawad{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -15.5%;
+    margin-left: 23.4%;
+}
+
+.skkagawad{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -15.5%;
+    margin-left: 70.1%;
+}
+
+.pbnames{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 23.1%;
+}
+
+.sknames{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 200;
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 66.5%;
+}
